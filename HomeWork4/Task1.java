@@ -78,18 +78,3 @@ static void sortFamilia(ArrayList<String> list){
    }    
 
 }   
-//    {
-//     int index = persons.size()-1;
-//     int max_age = Integer.parseInt(persons.get(index).split(" ")[3]);
-//     while(index>=0){ 
-//         int c = -1;
-//         for (i = 0; i< index; i++){
-//             int current = Integer.parseInt(persons.get(index).split(" ")[3]);
-//             if (current = max_age){
-//                 c = i;
-//                 max_age = c;
-// //             }
-// //         }
-//         if 
-//             }
-//         }
